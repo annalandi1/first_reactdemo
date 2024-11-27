@@ -4,7 +4,10 @@ import MainComponent from './components/MainComponent';
 import ButtonComponent from './components/ButtonComponent';
 import ImgComponent from './components/ImgComponent';
 
-// sembra HTML , ms in realtá é una sintassi chiamata JSX
+
+
+
+// sembra HTML, ms in realtá é una sintassi chiamata JSX
 
 // differenze principali:
 // -le classi CSS si applicamo con la parola "className" e non "class"
